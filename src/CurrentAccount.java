@@ -1,3 +1,3 @@
-public class CurrentAccount {
+public class CurrentAccount extends BankAccount {
     
 }
